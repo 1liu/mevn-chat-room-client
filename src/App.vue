@@ -4,7 +4,7 @@
       <a class="navbar-brand" href="#">Full Stack Chat Room</a>
 
     </nav>
-    <router-view />
+    <router-view class='container'/>
   </div>
 </template>
 
